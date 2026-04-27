@@ -57,7 +57,7 @@
     "@types/lodash.debounce": "^4.0.9",
     "@types/react": "^18.2.37",
     "@types/react-dom": "^18.2.15",
-    "@vitejs/plugin-react": "^4.2.0",
+    "@vitejs/plugin-react": "^6.0.1",
     "@vitest/ui": "^4.0.15",
     "autoprefixer": "^10.5.0",
     "eslint": "^8.57.0",
