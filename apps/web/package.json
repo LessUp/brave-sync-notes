@@ -33,7 +33,7 @@
     "buffer": "^6.0.3",
     "crypto-js": "^4.2.0",
     "events": "^3.3.0",
-    "framer-motion": "^10.16.16",
+    "framer-motion": "^12.38.0",
     "idb-keyval": "^6.2.1",
     "lodash.debounce": "^4.0.8",
     "lucide-react": "^0.292.0",
