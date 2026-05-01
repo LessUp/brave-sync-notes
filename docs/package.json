@@ -12,7 +12,7 @@
   "devDependencies": {
     "vitepress": "^1.0.2",
     "vue": "^3.4.21",
-    "markdownlint-cli2": "^0.12.1"
+    "markdownlint-cli2": "^0.22.1"
   },
   "dependencies": {
     "sitemap-ts": "^1.6.0"
